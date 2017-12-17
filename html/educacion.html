@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="witdh=device-width,user-scalable=no">
+    <meta name="author" content="Erwin Munoz">
+		<meta name="keywords" content="html,css,xml,javascript">
+    <title>Erwin Muñoz Monroy</title>
+  </head>
+  <body>
+    <header>
+      <svg width="0" height="0" viewbox="0 0 200 200">
+          <img src="../img/logo.svg"/>
+      </svg>
+      <h1>Hoja de Vida</h1>
+    </header>
+    <article id="Datos">
+        <h2>Datos Personales</h2>
+        <p>
+          <strong>Nombres:</strong> Erwin</br>
+          <strong>Apellidos:</strong> Muñoz Monroy</br>
+          <strong>Fecha de Naciemiento:</strong> 29 - DIC - 1987</br>
+          <strong>Lugar de Naciemiento:</strong> Bogotá D.C.
+        </p>
+    </article>
+    <nav>
+      <ul>
+        <li>
+          <a href="../index.html">Inicio</a>
+        </li>
+        <li>
+          <a href="educacion.html">Educación</a>
+        </li>
+        <li>
+          <a href="experiencia.html">Experiencia Laboral</a>
+        </li>
+      </ul>
+    </nav>
+    <h2>Educación</h2>
+    <table border="1" cellpadding="4" cellspacing="0" id="Educacion">
+      <thead>
+        <tr>
+          <th>AÑO</th>
+          <th>INSTITUCIÓN</th>
+          <th>TÍTULO</th>
+          <th>LUGAR</th>
+          <th>¿CULMINO?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1998</td>
+          <td>Colegio Principe de Paz</td>
+          <td>Primaria</td>
+          <td>Bogotá</td>
+          <td>SI</td>
+        </tr>
+        <tr>
+          <td>2004</td>
+          <td>Colegio parroquial Adveniat</td>
+          <td>Secundaria</td>
+          <td>Bogotá</td>
+          <td>SI</td>
+        </tr>
+        <tr>
+          <td>2008</td>
+          <td>SENA</td>
+          <td>Tecnólogo en Mantenimiento Eléctrico Industrial</td>
+          <td>Bogotá</td>
+          <td>SI</td>
+        </tr>
+        <tr>
+          <td>2012</td>
+          <td>Universidad Autónoma de Colombia</td>
+          <td>Ingeniería Electrónica</td>
+          <td>Bogotá</td>
+          <td>NO</td>
+        </tr>
+        <tr>
+          <td>2016</td>
+          <td>SENA</td>
+          <td>Especialización tecnológica en desarrollo de aplicaciones para dispositivos móviles.</td>
+          <td>Bogotá</td>
+          <td>SI</td>
+        </tr>
+        </tbody>
+      </table>
+      <form name="Formulario" id="Estudios">
+        <h2>Agregar Estudios</h2>
+        <p>
+          <strong>Año:</strong>
+          <label for="Fecha" id="Fecha"></label>
+          <select name="Fecha">
+            <option value="">Seleccionar</option>
+            <option value="2017">2017</option>
+            <option value="2016">2016</option>
+            <option value="2015">2015</option>
+            <option value="2014">2014</option>
+            <option value="2013">2013</option>
+            <option value="2012">2012</option>
+            <option value="2011">2011</option>
+            <option value="2010">2010</option>
+            <option value="2009">2009</option>
+            <option value="2008">2008</option>
+            <option value="2007">2007</option>
+            <option value="2006">2006</option>
+            <option value="2005">2005</option>
+            <option value="2004">2004</option>
+            <option value="2003">2003</option>
+            <option value="2002">2002</option>
+            <option value="2001">2001</option>
+            <option value="2000">2000</option>
+            <option value="1999">1999</option>
+            <option value="1998">1998</option>
+            <option value="1997">1997</option>
+            <option value="1996">1996</option>
+            <option value="1995">1995</option>
+            <option value="1994">1994</option>
+            <option value="1993">1993</option>
+            <option value="1992">1992</option>
+            <option value="1991">1991</option>
+            <option value="1990">1990</option>
+          </select>
+        </p>
+        <p>
+          <strong>Institución:</strong>
+          <label for="Institucion" id="Institucion"></label>
+          <input type="textaera" name="institucion" required>
+        </p>
+        <p>
+          <strong>Título:</strong>
+          <label for="Titulo" id="Titulo"></label>
+          <input type="text" name="Título" required>
+        </p>
+        <p>
+          <strong>Lugar:</strong>
+          <label for="Lugar" id="Lugar"></label>
+          <input type="text" name="Lugar" required autocomplete="on">
+        </p>
+        <p>
+          <strong>¿Culminó?:</strong>
+          <label for="Culmino" id="Culmino"></label>
+          <input type="radio" name="Si">SI
+          <input type="radio" name="No">NO
+        </p>
+        <p>
+          <label for="Enviar" id="Enviar"></label>
+          <input type="submit" name="Enviar" value="Enviar">
+        </p>
+      </form>
+  </body>
+  <footer>
+    <p>
+      <strong>Email:</strong> <a href="ermun0515@gmail.com?subject=feedback">ermun0515@gmail.com</a></br>
+      <strong>teléfono:</strong> 3057980927</br>
+      <strong>dirección:</strong> Calle 26 sur # 9 - 41 Bogota D.C., Colombia
+    </p>
+  </footer>
+</html>

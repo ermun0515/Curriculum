@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 100 100"
+   height="100px"
+   width="100px">
+  <defs
+     id="defs133" />
+  <metadata
+     id="metadata136">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       style="stroke-width:4.94276047"
+       transform="matrix(0.673358,0,0,0.86834068,-16.348023,-51.139257)"
+       id="layer1-6">
+      <g
+         style="stroke-width:4.94276047"
+         id="layer1-2"
+         transform="matrix(2.3812533,0,0,2.1762931,3.4618972,38.575834)">
+        <rect
+           style="fill:#e3dedb;stroke-width:1.30777156"
+           y="13.542172"
+           x="14.552083"
+           height="42.333332"
+           width="49.892857"
+           id="rect3699" />
+        <ellipse
+           ry="17.670387"
+           rx="18.615328"
+           cy="33.834072"
+           cx="39.404022"
+           id="path3711"
+           style="fill:#241c1c;stroke-width:1.34951985" />
+        <flowRoot
+           transform="matrix(0,0.30036807,-0.32296465,0,100.66102,-8.6346986)"
+           style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#meshgradient3741);fill-opacity:1;stroke:none;stroke-width:4.94276047"
+           id="flowRoot3703"
+           xml:space="preserve"><flowRegion
+             style="font-size:192px;line-height:1.25;fill:url(#meshgradient43);fill-opacity:1;stroke-width:4.94276047"
+             id="flowRegion3705"><rect
+               style="font-size:192px;line-height:1.25;fill:url(#meshgradient29);fill-opacity:1;stroke-width:4.94276047"
+               y="66.805397"
+               x="78.571426"
+               height="232.14287"
+               width="139.28572"
+               id="rect3707" /></flowRegion><flowPara
+             style="fill:url(#meshgradient57);fill-opacity:1;stroke-width:4.94276047"
+             id="flowPara3709">e</flowPara></flowRoot>      </g>
+      <g
+         aria-label="e"
+         transform="matrix(0,0.93104375,-1.0740634,0,0,0)"
+         style="font-style:normal;font-weight:normal;font-size:79.12150574px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.03686738"
+         id="text114">
+        <path
+           id="path116"
+           transform="matrix(0,-0.24633865,0.28417927,0,0,0)"
+           style="font-size:137.36372375px;fill:#808080;stroke-width:7.69839764"
+           d="m 364.4707,296.70508 c -50.28032,0 -89.12407,12.27416 -116.5332,36.82031 -27.22761,24.54582 -40.8418,58.68915 -40.8418,102.43164 0,17.15083 2.45059,33.5164 7.35157,49.09375 1.57248,4.99802 1.89676,4.41982 1.69531,2.11133 l 37.36328,46.5332 35,-5.21679 C 280.51909,520.76849 272.35176,507.7874 264.00195,489.53516 255.83367,471.44028 251.75,453.42388 251.75,435.48633 c 0,-13.53188 2.17679,-25.96211 6.5332,-37.29102 4.35642,-11.17164 10.89264,-20.84912 19.60547,-29.03125 8.89436,-8.4965 20.23788,-15.18483 34.03321,-20.0625 13.97683,-4.87776 30.31347,-7.3164 49.00976,-7.3164 l -0.71289,151.38867 29.91406,10 c 4.54214,-5.11091 9.51955,-8.07855 14.77735,-9.51953 -0.10485,-0.84722 -0.17871,-1.60053 -0.24219,-2.11719 -0.16247,-1.32248 -0.0379,-2.42708 0.27344,-3.30273 l -4.80274,-146.44922 c 23.96024,1.88818 44.01879,9.83431 60.17383,23.83789 16.15504,14.16123 24.23242,33.12149 24.23242,56.88086 0,23.60203 -7.3518,41.1465 -22.05469,52.63281 -10.10867,8.00532 -22.07912,12.95828 -36.375,16.01953 0.11272,0.11076 0.21758,0.22896 0.30274,0.36523 0.73964,1.18351 1.02781,2.22122 0.98242,3.17188 23.49675,6.44007 48.18355,24.6026 63.40625,12.30664 23.96031,-19.19633 35.94141,-46.57436 35.94141,-82.13477 0,-38.3927 -14.61166,-69.39045 -43.83594,-92.99218 -29.22428,-23.44471 -68.70592,-35.16797 -118.44141,-35.16797 z" />
+      </g>
+    </g>
+  </g>
+</svg>
